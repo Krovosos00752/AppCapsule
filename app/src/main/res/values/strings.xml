@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppCapsule</string>
+    <string name="isolated_space_label">Изолированное пространство</string>
+</resources>
